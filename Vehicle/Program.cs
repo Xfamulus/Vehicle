@@ -20,6 +20,7 @@ namespace Vehicle
             Console.WriteLine();
         }
     }
+
     class Vehicle
     {
 
